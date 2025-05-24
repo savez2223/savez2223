@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mosavez0786@gmail.com**
 
-- ⚡ Fun fact **I think I can roast anyone.**
+- ⚡ Fun fact **My code works... until someone asks why.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
