@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savez2223&label=Profile%20views&color=0e75b6&style=flat" alt="savez2223" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savez2223" alt="savez2223" /></a> </p>
 
 - 🔭 I just completed my project of haryana Government. [Khelo Mewat](Khelomewat.com)
 
