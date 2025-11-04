@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savez2223" alt="savez2223" /></a> </p>
 
-- 🔭 I’m currently working on [Khelo Mewat](Khelomewat.com)
+- 🔭 I just completed my project of haryana Government. [Khelo Mewat](Khelomewat.com)
 
 - 🌱 I’m currently learning **PHP , Express.js , Next.js, Typescript**
 
